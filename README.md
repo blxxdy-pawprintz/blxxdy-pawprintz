@@ -5,10 +5,10 @@
 
   ![](https://komarev.com/ghpvc/?username=blxxdy-pawprintz&color=dc143c&label=kills)
 
-${{\color{#42f5e3}{\textsf{ ꒰ ຼ. raver ⸝⸝⸝ goob
+${{\color{#42f5e3}{\textsf{ ꒰ ຼ. ℛaver ⸝⸝⸝ goob
 𐔌՞. .՞𐦯⠀꒱ }}}}$
 
-${{\color{#42f5e3}{\textsf{┄ she ︶ him 𓎢𓎟𓎡⠀ it / pup }}}}$
+${{\color{#42f5e3}{\textsf{┄ she ︶ him 𓎢𓎟𓎡⠀ it ／ pup }}}}$
 
 [*c*om**missio**ns]() ⸝ [*at*a]() ⸝⸝ [s**tra**wp*ag*e]() 
 
