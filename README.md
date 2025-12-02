@@ -1,4 +1,6 @@
-${{\color{#770000}{\textsf{hhh}}}}$
+
+</div><div align="center">${
+  {\color{#770000}{\textsf{hhh}}}}$
 
 <!--
 **blxxdy-pawprintz/blxxdy-pawprintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
