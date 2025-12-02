@@ -8,9 +8,9 @@
 ${{\color{#42f5e3}{\textsf{ ꒰ ຼ. raver ⸝⸝⸝ goob
 𐔌՞. .՞𐦯⠀꒱ }}}}$
 
-${{\color{#42f5e3}{\textsf{┄ she / him / it / pup }}}}$
+${{\color{#42f5e3}{\textsf{┄ she ︶ him 𓎢𓎟𓎡⠀ it / pup }}}}$
 
-[commissions]() ⸝ [ata]() ⸝⸝ [strawpage]() 
+[*c*om**missio**ns]() ⸝ [*at*a]() ⸝⸝ [s**tra**wp*ag*e]() 
 
 
 ![](https://files.catbox.moe/di1rtp.png)
