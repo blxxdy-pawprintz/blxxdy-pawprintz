@@ -1,10 +1,19 @@
 ![](https://files.catbox.moe/m94g1n.png)
 </div><div align="center">
 
-  ${{\color{#42f5e3}{\textsf{ testf }}}}$
+  ${{\color{#42f5e3}{\textsf{ ughh quote or sum }}}}$
 
   ![](https://komarev.com/ghpvc/?username=blxxdy-pawprintz&color=dc143c&label=kills)
+
+${{\color{#42f5e3}{\textsf{name }}}}$
+${{\color{#42f5e3}{\textsf{prnoun / neoprnounfff }}}}$
+
+links
+ij layoutok
+
+
 ![](https://files.catbox.moe/di1rtp.png)
+
 <!--
 **blxxdy-pawprintz/blxxdy-pawprintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
