@@ -5,11 +5,12 @@
 
   ![](https://komarev.com/ghpvc/?username=blxxdy-pawprintz&color=dc143c&label=kills)
 
-${{\color{#42f5e3}{\textsf{name }}}}$
-${{\color{#42f5e3}{\textsf{prnoun / neoprnounfff }}}}$
+${{\color{#42f5e3}{\textsf{ ꒰ ຼ. raver ⸝⸝⸝ goob
+𐔌՞. .՞𐦯⠀꒱ }}}}$
 
-links
-ij layoutok
+${{\color{#42f5e3}{\textsf{┄ she / him / it / pup }}}}$
+
+[commissions]() ⸝ [ata]() ⸝⸝ [strawpage]() 
 
 
 ![](https://files.catbox.moe/di1rtp.png)
