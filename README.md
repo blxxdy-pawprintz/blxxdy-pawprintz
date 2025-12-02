@@ -1,6 +1,9 @@
 
 </div><div align="center">
-  ${{\color{#770000}{\textsf{hhh}}}}$
+
+  ${{\color{#42f5e3}{\textsf{put text here }}}}$
+
+  ![](https://komarev.com/ghpvc/?username=blxxdy-pawprintz&color=dc143c&label=kills)
 
 <!--
 **blxxdy-pawprintz/blxxdy-pawprintz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
